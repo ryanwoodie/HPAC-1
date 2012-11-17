@@ -1,5 +1,5 @@
-Pedagogical Foundations
-=======================
+Pedagogical Foundations / Instructional Theory
+==============================================
 
 A sample file to demo distributed revision control
 
