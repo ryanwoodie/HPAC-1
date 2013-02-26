@@ -5,6 +5,10 @@ A sample file to demo distributed revision control
 
 Sound pedagogical foundations are key to successful instruction and safety.. etc 
 
+Self-Efficacy and Guided Mastery
+================================
+http://psychology.about.com/od/theoriesofpersonality/a/self_efficacy.htm
+
 Neuroplastic Programming
 ========================
 
